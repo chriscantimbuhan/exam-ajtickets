@@ -39,5 +39,5 @@ php artisan burger:manage-component
 ```
 Once burger components are available, You may start to create your burger
 ```sh
-php artisan burger:burger:build
+php artisan burger:build
 ```
