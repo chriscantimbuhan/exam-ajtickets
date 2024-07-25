@@ -25,6 +25,10 @@ composer install
 Copy or move env.sample to .env.
 ```sh
 cp env.example .env
+
+Migrate tables to database.
+```sh
+php artisan migrate
 ```
 
 ## USAGE
