@@ -24,7 +24,7 @@ composer install
 ```
 Copy or move env.sample to .env.
 ```sh
-cp env.sample .env
+cp env.example .env
 ```
 
 ## USAGE
